@@ -1,0 +1,1 @@
+Example how to integrate JSPs with Spring Boot 3.
